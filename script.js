@@ -35,4 +35,4 @@ function playStream(url) {
 }
 
 // Replace with your GitHub-hosted M3U file URL:
-fetchM3U("https://github.com/Himanshu8221/live-tv-jazztv/blob/main/jaaz%20tv.m3u");
+fetchM3U("https://github.com/Himanshu8221/live-tv-jazztv/blob/main/Jio%20TV.m3u");
